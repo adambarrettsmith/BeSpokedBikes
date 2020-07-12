@@ -1,0 +1,9 @@
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\bin\Debug\netstandard2.0\BeSpokedBikes.API.deps.json
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\bin\Debug\netstandard2.0\BeSpokedBikes.API.dll
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\bin\Debug\netstandard2.0\BeSpokedBikes.API.pdb
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\obj\Debug\netstandard2.0\BeSpokedBikes.API.csprojAssemblyReference.cache
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\obj\Debug\netstandard2.0\BeSpokedBikes.API.AssemblyInfoInputs.cache
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\obj\Debug\netstandard2.0\BeSpokedBikes.API.AssemblyInfo.cs
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\obj\Debug\netstandard2.0\BeSpokedBikes.API.csproj.CoreCompileInputs.cache
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\obj\Debug\netstandard2.0\BeSpokedBikes.API.dll
+D:\Repos\BeSpokedBikes\BeSpokedBikes.API\obj\Debug\netstandard2.0\BeSpokedBikes.API.pdb

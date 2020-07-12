@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace BeSpokedBikes.BeSpokedBikes.Data
+{
+    public partial class Sales
+    {
+        public int Id { get; set; }
+        public int? ProductId { get; set; }
+        public int? SalesPersonId { get; set; }
+        public int? CustomerId { get; set; }
+        public DateTime? SalesDate { get; set; }
+
+        public virtual Customers Customer { get; set; }
+        public virtual Products Product { get; set; }
+        public virtual SalesPeople SalesPerson { get; set; }
+    }
+}
